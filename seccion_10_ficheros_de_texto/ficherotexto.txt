@@ -1,0 +1,4 @@
+Esto es un fichero de ejemplo,
+que tiene 2 lineas de texto
+
+ Esta es una tercera fila dell fichero

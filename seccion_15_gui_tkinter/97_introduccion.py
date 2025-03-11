@@ -1,0 +1,1 @@
+#mostrar los componentes
